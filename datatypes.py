@@ -1,0 +1,15 @@
+a=123
+b=181.56
+c="codingal"
+d=True
+print(a)
+print(b)
+print(c)
+print(d)
+e=int(b)
+print(e)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
