@@ -1,0 +1,3 @@
+Anay_birthday="28 january"
+surbhi_birthday="25 november"
+mayank_birthday="29 september"
